@@ -5,8 +5,8 @@ the baisc ipython file dl_final_project.ipython contains example experiments wit
 
 the project contains several experiments exploring different options : 
   1. for the feature extractor comparsion : please run dl_final_project16.ipython and dl_final_project19.ipython
-  2. for the dropout rate comparsion: please run dl_final_project16_dor.ipython
-  3. for the optimizer comparsion: please run dl_final_project_opt.ipython
+  2. for the dropout rate comparsion: please run dl_final_project16_dropout.ipython
+  3. for the optimizer comparsion: please run dl_final_project16_opt.ipython
 
 please note the code will only need to pretrain the input images once and save the feature extracted as feature16/19.pkl file, once can break the running after the file is generated and use the saved one to continue the work.
 
